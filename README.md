@@ -1,3 +1,11 @@
+<div align="center">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/LeHaGiaBao/Arithmetic-Formatter?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![GitHub forks](https://img.shields.io/github/forks/LeHaGiaBao/Arithmetic-Formatter?style=for-the-badge)
+
+</div>
+
 ### Assignment
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
